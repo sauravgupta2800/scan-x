@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Scan-X</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="nameerror">Enter a valid name</string>
+    <string name="heighterror">Enter a valid height</string>
+    <string name="weighterror">Enter a valid weight</string>
+    <string name="mobileerror">Enter a valid mobile(10 digits)</string>
+    <string name="dateerror">Enter a valid date format(DD/MM/YYYY)</string>
+    <string name="blooderror">Enter a Valid Blood Group(A,B,AB,O with +/-)</string>
+    <string name="gendererror">Enter Either M/F only</string>
+    <string name="addresserror">Enter a valid Address</string>
+    <string name="hospitalerror">Enter a valid hospital name</string>
+    <string name="treatmenterror">Enter a valid format Treatment</string>
+    <string name="uploaderror">Please Specify Details</string>
+    <string name="emailerror">Incorrect Email Format</string>
+
+</resources>
